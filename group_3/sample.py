@@ -12,3 +12,7 @@ print(f"Sum of 1 throgh 100 is {total}")
 # comment
 
 # Write your own code below
+def spam(spam_power):
+    for i in range(spam_power):
+        print("spam")
+spam(10)

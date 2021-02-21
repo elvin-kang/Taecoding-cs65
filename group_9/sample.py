@@ -12,3 +12,7 @@ print(f"Sum of 1 throgh 100 is {total}")
 # comment
 
 # Write your own code below
+
+
+
+print("This is a sample change for sujin's branch")

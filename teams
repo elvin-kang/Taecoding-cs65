@@ -21,3 +21,12 @@ Jiwoo
 Team 6
 William
 Minjun
+
+1. Create branch
+2. Make changes
+3. git add [file you want to add]
+4. git commit -m "Write thoughtful commit message"
+5. git push origin {your branch name}
+6. make Pull request on github (git pull origin main)
+7. Partner accepts the pull request and then merge to main
+8. git pull origin main
